@@ -1,0 +1,160 @@
+{
+  "book_id": "african_independence_naturalist_technological_anxiety",
+  "title": "The Silent Network",
+  "tagline": "A naturalist races to document a forest's hidden language before a tech company silences it forever.",
+  "target_words": 70000,
+  "actual_words": 77004,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Commodification of Nature",
+    "Intergenerational Trauma & Silence",
+    "Neocolonialism in a Digital Age",
+    "Indigenous Knowledge vs. Algorithmic Extraction"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Rust-Coloured Sea",
+      "words": 3200
+    },
+    {
+      "ch": 2,
+      "title": "Ghosts in the Mycelium",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "The Nexus Briefing",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "Samuel's Cache",
+      "words": 3300
+    },
+    {
+      "ch": 5,
+      "title": "The First Anomaly",
+      "words": 3000
+    },
+    {
+      "ch": 6,
+      "title": "Ama's Garden",
+      "words": 2800
+    },
+    {
+      "ch": 7,
+      "title": "The Drone Swarm",
+      "words": 3500
+    },
+    {
+      "ch": 8,
+      "title": "Professor Gyamfi's Legacy",
+      "words": 3200
+    },
+    {
+      "ch": 9,
+      "title": "Data Streams and Ancestral Streams",
+      "words": 3100
+    },
+    {
+      "ch": 10,
+      "title": "The Boy in the Tree",
+      "words": 3400
+    },
+    {
+      "ch": 11,
+      "title": "Patent Pending",
+      "words": 2900
+    },
+    {
+      "ch": 12,
+      "title": "The Language of Warnings",
+      "words": 3300
+    },
+    {
+      "ch": 13,
+      "title": "Silent Protest",
+      "words": 2800
+    },
+    {
+      "ch": 14,
+      "title": "The Fungal Probe",
+      "words": 3600
+    },
+    {
+      "ch": 15,
+      "title": "Corrupted Baseline",
+      "words": 3100
+    },
+    {
+      "ch": 16,
+      "title": "Chain of Custody",
+      "words": 2900
+    },
+    {
+      "ch": 17,
+      "title": "The Council of Elders",
+      "words": 3400
+    },
+    {
+      "ch": 18,
+      "title": "Synthetic Symbiosis",
+      "words": 3200
+    },
+    {
+      "ch": 19,
+      "title": "The Firewall of Vines",
+      "words": 3500
+    },
+    {
+      "ch": 20,
+      "title": "Sacrifice of the Sapling",
+      "words": 3000
+    },
+    {
+      "ch": 21,
+      "title": "Broadcast from the Baobab",
+      "words": 3800
+    },
+    {
+      "ch": 22,
+      "title": "The Weight of the Earth",
+      "words": 3100
+    },
+    {
+      "ch": 23,
+      "title": "Not a Resource, a Relative",
+      "words": 3400
+    },
+    {
+      "ch": 24,
+      "title": "A Different Kind of Seed",
+      "words": 3700
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers the forest network is communicating a specific, urgent warning about a nearby community.",
+      "Draft a letter from Samuel to his deceased father, explaining why he is or isn't joining the protest.",
+      "Create a monologue for Dr. Abena Gyamfi, giving a fiery lecture to Nexus executives about the difference between data and wisdom.",
+      "Write a 'found document'—a Nexus internal memo that outlines the profit potential of the mycelial network, revealing their true intentions."
+    ],
+    "technical": [
+      "Design a speculative interface for Kofi's sensor posts that visualizes the forest's chemical 'conversations' in real-time.",
+      "Propose a decentralized, blockchain-adjacent system for storing and granting access to the ecological data, controlled by the local community rather than Nexus."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Chinua Achebe",
+      "Octavia E. Butler",
+      "Robin Wall Kimmerer",
+      "William Gibson"
+    ]
+  },
+  "cover_prompt": "An elderly African naturalist, his face a map of wisdom and sorrow, gently presses his ear against the gnarled bark of a colossal, ancient tree, listening intently as faint, bioluminescent data-pulses of soft gold and green light travel up the trunk like whispering veins, [Detailed Scene & Context: in a dense, mist-shrouded rainforest at dawn, where the organic network of glowing roots and fungal threads is subtly threatened by the invasive, geometric patterns of translucent, neon-blue corporate scanning drones hovering silently in the background, their cold light clashing with the forest's warmth], [Artistic Style & Medium: in the atmospheric and detailed style of a Moebius illustration, combined with the textured, symbolic naturalism of Alexis Rockman, rendered in matte painting and digital oils with a grainy, archival texture], [Composition & Camera: book cover framing, an intimate and centered composition looking up at the naturalist and the tree, a low-angle shot that emphasizes the tree's grandeur and the man's reverence, with the conflicting networks of light forming the visual backbone of the image], [Lighting & Color Palette: dramatic chiaroscuro lighting where the natural bioluminescence creates pockets of ethereal warmth against the deep, cool shadows of the forest, a palette of earthy umbers, mossy greens, and ochres pierced by the artificial cerulean and electric blue of the technology], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
